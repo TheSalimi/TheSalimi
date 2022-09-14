@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<!--![darya](https://user-images.githubusercontent.com/108394058/190145913-df9a249b-223f-4885-a9dc-2152873aaa19.jpg)
+
 **TheSalimi/TheSalimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
