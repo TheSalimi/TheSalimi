@@ -1,6 +1,3 @@
-### Hi there 👋
-I'm Amirhosein Salimi
-
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Amirhosein+Salimi;Android+developer" >
 
 
