@@ -9,6 +9,26 @@
         <tr>
         <td align="center" width="96">
         <a target="_blank" rel="noreferrer">
+            <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" title="C#" alt="C#" width="46" height="46"/>
+        </a>
+          <br>C#
+        </td>
+        <td align="center" width="96">
+        <a href="Angular" target="_blank" rel="noreferrer">
+            <img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" title=".NET Core" alt=".NET Core" width="46" height="46"/>
+        </a>
+          <br>.NET Core
+        </td>
+        <td align="center" width="96">
+        <a target="_blank" rel="noreferrer">
+            <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" title="MSSQL" alt="MSSQL" width="46" height="46"/>
+        </a>
+          <br>MSSQL
+        </td>
+      </tr>
+        <tr>
+        <td align="center" width="96">
+        <a target="_blank" rel="noreferrer">
             <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="46" height="46"/>
         </a>
           <br>Swagger
