@@ -33,14 +33,12 @@
         </a>
           <br>Git
         </td>
-      <tr>
-        <td align="center" width="96">
+          <td align="center" width="96">
         <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
             <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="ubuntu" width="46" height="46"/>
         </a>
           <br>Ubuntu
         </td>
-      </tr>
     </table>
 </div>
 
