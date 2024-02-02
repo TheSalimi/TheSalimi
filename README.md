@@ -15,7 +15,7 @@
         </td>
         <td align="center" width="96">
         <a href="Angular" target="_blank" rel="noreferrer">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Angular" alt="Angular" width="46" height="46"/>
+            <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" title="Angular" alt="Angular" width="46" height="46"/>
         </a>
           <br>Angular
         </td>
