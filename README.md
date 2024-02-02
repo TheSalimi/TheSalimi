@@ -6,6 +6,26 @@
 <br>
 <div align="center">
     <table>
+        <tr>
+        <td align="center" width="96">
+        <a target="_blank" rel="noreferrer">
+            <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="46" height="46"/>
+        </a>
+          <br>Python
+        </td>
+        <td align="center" width="96">
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" alt="Html5" width="46" height="46"/>
+        </a>
+          <br>HTML5
+        </td>
+        <td align="center" width="96">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css" alt="Css" width="46" height="46"/>
+        </a>
+          <br>CSS
+        </td>
+      </tr>
       <tr>
         <td align="center" width="96">
         <a href="https://www.python.org/" target="_blank" rel="noreferrer">
