@@ -1,6 +1,3 @@
-# Hey there, I'm Amir 👋 👩🏽‍💻
-<br>
-
 # Tech Stack 💻
 > Tools, languages, and other things that I like to work with.
 <br>
