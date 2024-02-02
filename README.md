@@ -39,6 +39,13 @@
         </a>
           <br>Ubuntu
         </td>
+          </td>
+          <td align="center" width="96">
+        <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+            <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" title="Sass" alt="Sass" width="46" height="46"/>
+        </a>
+          <br>Sass
+        </td>
     </table>
 </div>
 
