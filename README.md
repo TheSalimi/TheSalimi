@@ -60,7 +60,7 @@
   <a href="https://instagram.com/4mirsalimi">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="amir3lym@gmail.com">
+  <a href="mailto:amir3lym@gmail.com">
     <img src="https://img.shields.io/badge/gmail-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
