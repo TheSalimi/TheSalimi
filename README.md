@@ -83,20 +83,6 @@
         </a>
           <br>Sass
         </td>
-
-    <td align="center" width="96">
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" title="GitHub" alt="GitHub" width="46" height="46"/>
-        </a>
-          <br>GitHub
-        </td>
-            <td align="center" width="96">
-        <a  target="_blank" rel="noreferrer">
-            <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" title="C" alt="C" width="46" height="46"/>
-        </a>
-          <br>C
-        </td>
-        
     </tr>
     </table>
 </div>
