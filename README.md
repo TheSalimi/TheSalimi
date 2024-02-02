@@ -49,7 +49,8 @@
 ## Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSalimi&theme=github&bg_color=20232a&hide_border=true" width="100%"/>
 </br>
-# Connect with me 
+## Connect with me 
+</br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/amir-salimi-45b554248/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
