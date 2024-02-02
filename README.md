@@ -51,18 +51,16 @@
 </br>
 # Connect with me 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/amir-salimi/">
+  <a href="https://www.linkedin.com/in/amir-salimi-45b554248/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/TheSalimi">
+  <a href="https://t.me/iam3lymi">
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://instagram.com/TheSalimi">
+  <a href="https://instagram.com/4mirsalimi">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="mailto:wwwwwq37@gmail.com">
+  <a href="amir3lym@gmail.com">
     <img src="https://img.shields.io/badge/gmail-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram Badge"/>
   </a>
-    
-    
 </div>
