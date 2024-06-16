@@ -101,7 +101,7 @@
   <a href="https://www.linkedin.com/in/amir-salimi-45b554248/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/iam3lymi">
+  <a href="https://t.me/IAmAmirSalimi">
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://instagram.com/4mirsalimi">
